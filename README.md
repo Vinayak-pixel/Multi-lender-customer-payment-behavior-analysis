@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏦 Cross-NBFC Payment Behaviour Analysis — Targeted Collection Strategy
 
 > **Identifying borrowers who honour repayments at other NBFCs while defaulting on our NBFC loans, enabling precision-targeted collections to reduce GNPA.**
