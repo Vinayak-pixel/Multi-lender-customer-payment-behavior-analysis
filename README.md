@@ -129,9 +129,9 @@ OFF US  0/STD │    3       2      5       9     2542  ◀ HIGH RISK│
 
 ---
 
-```
 
----
+
+
 
 ## ⚠️ Data Privacy Note
 
@@ -141,5 +141,5 @@ This project was executed on proprietary credit bureau scrub data under strict d
 
 
 =======
-# Multi-lender-customer-payment-behavior-analysis
->>>>>>> bca51c479cc6fcab9b2b31f33726f73317cc1d98
+
+
